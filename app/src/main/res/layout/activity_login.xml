@@ -35,7 +35,7 @@
                 android:layout_margin="25dp"
                 android:background="@color/color_white"
                 android:ems="10"
-                android:hint="Digite o usuario"
+                android:hint="Digite o e-mail"
                 android:inputType="textPersonName"
                 android:textAlignment="center"
                 android:textColor="@color/black"

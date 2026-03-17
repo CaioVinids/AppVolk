@@ -6,7 +6,7 @@ O protótipo deste aplicativo foi planejado e desenhado no **Figma**.
 
 ## 📱 Telas do Aplicativo
 
-O aplicativo da consultoria **Volk Infinity Prime** foi desenvolvido utilizando **Java** com banco de dados **SQLite**.
+O aplicativo da consultoria **Volk Infinity Prime** foi desenvolvido utilizando **Java**.
 
 | Tela Splash | Tela Login | Tela Inicial |
 | :---: | :---: | :---: |
