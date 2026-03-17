@@ -10,4 +10,4 @@ O aplicativo da consultoria **Volk Infinity Prime** foi desenvolvido utilizando 
 
 | Tela Splash | Tela Login | Tela Inicial |
 | :---: | :---: | :---: |
-| ![Tela Splash](https://github.com/user-attachments/assets/85aed440-6922-4b93-b2dc-8c2d76257fda) | ![Tela Login](https://github.com/user-attachments/assets/a584c20f-3f67-4df9-bb4c-686f23c4691c) | ![Tela de Início](https://github.com/user-attachments/assets/7e8bc5a6-f881-4b2b-bc1e-fdcd02df963a) | 
+| ![Tela Splash](https://github.com/user-attachments/assets/85aed440-6922-4b93-b2dc-8c2d76257fda) | ![Tela Login](https://github.com/user-attachments/assets/56524ed2-0d6b-48e7-8c35-ef108bf13d1d) | ![Tela de Início](https://github.com/user-attachments/assets/7e8bc5a6-f881-4b2b-bc1e-fdcd02df963a) | 
